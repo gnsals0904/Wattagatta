@@ -1,6 +1,5 @@
 # 대신 옮겨드립니다! - 와따가따
-
-
+### 삼성 청년 SW 아카데미 자율 프로젝트 우수상 🏆
 <p align="center">
   <img src="/img/splash.png" alt="splashPage.png">
 </p>
